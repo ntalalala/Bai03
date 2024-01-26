@@ -1,0 +1,167 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); */
+
+.font_all {
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: Arial;
+}
+
+.chat {
+    width: 280px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.chat-heading {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.chat-ava {
+    background: #FE5DA3;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 32px;
+    color: white;
+}
+
+.chat-name {
+    font-size: 14px;
+    font-weight: 700;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.chat-body {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.chat-mess1 {
+    width: 200px;
+    border-radius: 15px;
+    background: #F1F1F1;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 5px 10px;
+    font-size: 13px;
+    line-height: 1.4;
+}
+.chat-mess2 {
+    width: 200px;
+    border-radius: 15px;
+    background: #FE5DA3;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: 10px;
+    padding: 5px 10px;
+    font-size: 13px;
+    line-height: 1.4;
+    color: white;
+}
+
+.chat-form {
+    border: none;
+    padding-top: 4.5px;
+    padding-left: 0px;
+    outline: none;
+}
+
+.chat-foot {
+    border: 1px solid #ddd;
+    display: inline-block;
+    border-radius: 15px;
+    width: 190px;
+    height: 25px;
+    margin: 10px;
+    margin-right: 0px;
+    padding: 0px 10px;
+    font-size: 13px;
+    color: #e6e6e6;
+}
+
+.sent-button {
+    display: inline-block;
+    border: 1px solid #FE5DA3;
+    background: #FE5DA3;
+    border-radius: 15px;
+    /* width: 35px; */
+    height: 25px;
+    padding: 0px 10px;
+}
+
+.danhmucsp {
+    width: 200px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.pic {
+    width: 100px;
+    height: 100px;
+    padding-left: 50px;
+    padding-bottom: 4px; 
+    display: block;
+}
+
+
+
+
+.danhsachsp {
+    width: 250px;
+    border: 1px solid #ddd;
+    display: inline-block;
+    padding: 5px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+.ten_sp {
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 5px;
+}
+
+.pic1 {
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-bottom: 4px;
+}
+
+.gia_sp {
+    color: #257F00;
+    font-size: 18px;
+    font-weight: 700;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+.gia_cu {
+    color: #F51600;
+    /* del in html */
+    text-decoration: line-through;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+.sale {
+    color: #7B0A81;
+    font-size: 18px;
+    font-weight: 700;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
